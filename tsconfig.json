@@ -1,0 +1,9 @@
+{
+  "include": [
+    "**/.vuepress/**/*",
+    "ecosystem/**/*",
+    "packages/**/*",
+    "vitest.config.ts"
+  ],
+  "exclude": ["node_modules", ".temp", "lib", "dist"]
+}
