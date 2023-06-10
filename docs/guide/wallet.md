@@ -10,7 +10,7 @@
 
 ## کیف پول اتریوم چیست
 
-شما نیاز به یک کیف پول دارید که وجوه را بفرستد و اتر شما را مدیریت کند.
+شما نیاز به یک کیف پول دارید که وجوه را بفرستد و ارز مجازی شما را مدیریت کند.
 کیف پول‌های اتریوم برنامه‌های کاربردی هستند که به شما امکان استفاده از حساب اتریوم را می‌دهد. به آن به چشم یک برنامه بانکداری ابنترنتی بدون بانک نگاه کنید. کیف پول به شما امکان می‌دهد موجودی خود را بخوانید، تراکنش‌ها را بفرستید، و به برنامه‌های کاربردی متصل شوید.
 
 کیف پول شما تنها یک ابزار برای مدیدریت حساب اتریوم است. این بدین معنی است که می‌توانید ارائه دهنده کیف پول خود را در هر زمانی عوض کنید. بسیاری از کیف پول‌ها به شما امکان استفاده همزمان از چندین حساب اتریوم برای یک برنامه را می‌دهند.
@@ -18,16 +18,24 @@
 این بدین دلیل است که کیف پول هیچ مالکیتی بر روی پول شما ندارد. کیف پول‌ها تنها ابزاری است برای مدیریت آن چه دارید.
 
 ## نصب کیف پول
-<img src="https://github.com/SAY-DAO/road-map-docs/blob/main/docs/.vuepress/public/images/metamask.png?raw=true" alt="metamask" width="300"/>
 
 برای اینکه شما بتوانید از برخی قابلیت‌های SAY استفاده کنید نیاز به یک کیف پول ارزهای مجازی دارید،
 
 - امضای دیجیتال نیازها
 - مشارکت در سرنوشت SAY با رای دادن
 - ذخیره سهام / ارز مجازی SAY
+- ...
+
+با کلیک کردن بر روی دکمه اتصال کیف پول در صفحه من، صفحه زیر برای شما باز می‌شود.
+
+<img src="https://github.com/SAY-DAO/road-map-docs/blob/main/docs/.vuepress/public/images/metamask.png?raw=true" alt="metamask" width="300"/>
+<img src="https://github.com/SAY-DAO/road-map-docs/blob/main/docs/.vuepress/public/images/noMetamask.png?raw=true" alt="metamask" width="300"/>
+
+در صورت نصب نبودن کیف پول Metamask پیشنهاد میشود که این کیف پول را دانلود و نصب کنید. برای آشنایی با این کیف پول به ویدیو زیر مراجعه کنید.
 
 اگر آشنایی با این کیف‌پول ها را ندارید لطفا ویدیو زیر را تماشا کنید.
 
+<style>.h_iframe-aparat_embed_frame{position:relative;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:80%;height:80%;margin:auto;}</style>
 <div class="h_iframe-aparat_embed_frame"><span style="display: block;padding-top: 57%"></span><iframe src="https://www.aparat.com/video/video/embed/videohash/jv3Yn/vt/frame"  allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 
 ## چگونه ایمن بمانیم
@@ -45,7 +53,6 @@
 
 این مثال را ببنید:
 
-<style>.h_iframe-aparat_embed_frame{position:relative;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style>
 <div>
 <img src="https://github.com/SAY-DAO/road-map-docs/blob/main/docs/.vuepress/public/images/seeds.png?raw=true" alt="drawing" width="300"/>
 </div>
