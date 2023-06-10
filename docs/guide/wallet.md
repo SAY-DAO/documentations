@@ -18,6 +18,7 @@
 این بدین دلیل است که کیف پول هیچ مالکیتی بر روی پول شما ندارد. کیف پول‌ها تنها ابزاری است برای مدیریت آن چه دارید.
 
 ## نصب کیف پول
+<img src="https://github.com/SAY-DAO/road-map-docs/blob/main/docs/.vuepress/public/images/metamask.png?raw=true" alt="metamask" width="300"/>
 
 برای اینکه شما بتوانید از برخی قابلیت‌های SAY استفاده کنید نیاز به یک کیف پول ارزهای مجازی دارید،
 
