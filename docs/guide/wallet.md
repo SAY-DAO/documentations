@@ -2,13 +2,11 @@
 
 # کیف پول‌ ارزهای مجازی
 
-::: warning
-این سند یک مستند در حال تکمیل و به‌روزرسانی است. به عبارت دیگر، این سند همچنان در حال توسعه و بهبود است و نسخه‌های جدید آن بر اساس نیازها و تغییرات مستمر در استارتاپ ایجاد می‌شود.
-:::
-
 ## بلاک‌چین اتریوم
 
 بلاک‌چین اتریوم فناوری ایست برای ساخت نرم‌افزار‌ها و سازمان‌ها، نگهداری دارایی‌ها، انجام تراکنش و ارتباطات بدون کنترل از سوی یک مرجع مرکزی. برای استفاده از اتریوم نیازی نیست که اطلاعات شخصی خود را تحویل دهید - شمایید که کنترل داده‌هایتان و هرچیز که قرار است به اشتراک گذاشته شود را در دست دارید. اتریوم رمزارز خودش، اتر، را دارد که برای پرداخت فعالیت های خاصی بر روی شبکه اتریوم از آن استفاده می‌شود.
+
+اتریوم (Ethereum) در واقع یک پلتفرم توسعه اپلیکیشن‌های قرارداد هوشمند (smart contract) است که بر پایه تکنولوژی بلاکچین عمل می‌کند. این پلتفرم به طور اصلی برای اجرای قراردادهای هوشمند، توکن‌های دیجیتالی و برنامه‌های قابل اجرا بر پایه بلاکچین استفاده می‌شود.
 
 ## کیف پول اتریوم چیست
 
@@ -19,156 +17,54 @@
 
 این بدین دلیل است که کیف پول هیچ مالکیتی بر روی پول شما ندارد. کیف پول‌ها تنها ابزاری است برای مدیریت آن چه دارید.
 
+## نصب کیف پول
+
+برای اینکه شما بتوانید از برخی قابلیت‌های SAY استفاده کنید نیاز به یک کیف پول ارزهای مجازی دارید،
+
+- امضای دیجیتال نیازها
+- مشارکت در سرنوشت SAY با رای دادن
+- ذخیره سهام / ارز مجازی SAY
+
+اگر آشنایی با این کیف‌پول ها را ندارید لطفا ویدیو زیر را تماشا کنید.
+
+<div class="h_iframe-aparat_embed_frame"><span style="display: block;padding-top: 57%"></span><iframe src="https://www.aparat.com/video/video/embed/videohash/jv3Yn/vt/frame"  allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
+
 ## چگونه ایمن بمانیم
 
 وقتی صحبت از ایمنی به میان می‌آید، کیف پول تغییر در طرز فکرهاست. آزادی مالی و امکان دسترسی و استفاده از وجوه در هر کجا با کمی مسئولیت همراه است – هیچ پشتیبانی مشتری در رمز ارز وجود ندارد.
 
-✅مسئولیت وجوهتان را به عهده بگیرید
+##### ✅ مسئولیت وجوهتان را به عهده بگیرید
 
 صرافی‌های نامتمرکز کیف پولتان را به یک نام کاربری و رمز عبور پیوند می‌دهند و شما می‌توانید از روش‌های سنتی اقدام به بازیابی کنید. فقط به یاد داشته باشید که با این کار دارید به حضانت وجوهتان نزد آن صرافی نامتمرکز اعتماد می‌کنید. اگر آن شرکت مورد حمله قرار گیرد یا ورشکست شود، وجوهتان به خطر می‌افتد.
 
-✅عبارت seed را یادداشت کنید
+##### ✅ عبارت seed را یادداشت کنید
 
 کیف پول‌ها به شما یک عبارت بازیابی می‌دهند که باید آن را در جایی مطمئن یادداشت کنید. این، تنها راهی است که با آن می‌توانید کیف پول خود را بازیابی کنید.
+آن را روی کامپیوتر ذخیره نکنید. آن را جایی بنویسید و ایمن نگه دارید.
 
 این مثال را ببنید:
 
-there aeroplane curve vent formation doge possible product distinct under spirit lamp
+<style>.h_iframe-aparat_embed_frame{position:relative;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style>
+<div>
+<img src="https://github.com/SAY-DAO/road-map-docs/blob/main/docs/.vuepress/public/images/seeds.png?raw=true" alt="drawing" width="300"/>
+</div>
 
-![The Flow](https://github.com/SAY-DAO/road-map-docs/blob/main/docs/.vuepress/public/seeds.png?raw=true)
-
-آن را روی کامپیوتر ذخیره نکنید. آن را جایی بنویسید و ایمن نگه دارید.
-
-##### ✅کیف پول خود را نشانگذاری کنید
+##### ✅ کیف پول خود را نشانگذاری کنید
 
 اگر از کیف پول تحت وب استفاده می‌کنید، وبسایت را نشانگذاری کنید تا از شر کلاهبرداری در امان بمانید.
 
-✅هر چیزی را سه بار بررسی کنید
+##### ✅ هر چیزی را سه بار بررسی کنید
 
 به یاد داشته باشید که تراکنش ها برگشت پذیر و کیف پول‌ها به سادگی قابل بازیابی نیستند، پس احتیاط کنید و همیشه مراقب باشید.
 
-- **Step 1**: Create and change into a new directory
+## امضای دیجیتال
 
-```bash
-mkdir vuepress-starter
-cd vuepress-starter
-```
+در فرایند استفاده از کیف پول‌های بلاکچین، مفهوم "امضای کیف پول" اهمیت بسیاری دارد. امضای کیف پول به معنای ایجاد یک امضای دیجیتال منحصر به فرد است که توسط کیف پول صورت می‌گیرد. این امضا به‌عنوان تأییدیه‌ای از صحت و اعتبار تراکنش‌ها و اطلاعات در شبکه بلاکچین عمل می‌کند.
 
-- **Step 2**: Initialize your project
+در واقع، امضای کیف پول از الگوریتم‌های رمزنگاری قوی برای ایجاد یک کلید خصوصی استفاده می‌کند. این کلید خصوصی به صورت امن در داخل کیف پول ذخیره می‌شود و توسط آن، امضای دیجیتالی برای هر تراکنش و انتقال اطلاعات ایجاد می‌شود.
 
-<CodeGroup>
-  <CodeGroupItem title="PNPM" active>
+مزیت اصلی امضای کیف پول در بلاکچین، امنیت و صحت تراکنش‌هاست. امضای دیجیتال توسط کیف پول تأیید می‌کند که تراکنش توسط صاحب کیف پول انجام شده است و هیچ تغییری در اطلاعات تراکنش ایجاد نشده است.
 
-```bash
-git init
-pnpm init
-```
-
-  </CodeGroupItem>
-
-  <CodeGroupItem title="YARN">
-
-```bash
-git init
-yarn init
-```
-
-  </CodeGroupItem>
-
-  <CodeGroupItem title="NPM">
-
-```bash
-git init
-npm init
-```
-
-  </CodeGroupItem>
-</CodeGroup>
-
-- **Step 3**: Install VuePress locally
-
-<CodeGroup>
-  <CodeGroupItem title="PNPM" active>
-
-```bash
-pnpm add -D vuepress@next @vuepress/client@next vue
-```
-
-  </CodeGroupItem>
-
-  <CodeGroupItem title="YARN">
-
-```bash
-yarn add -D vuepress@next
-```
-
-  </CodeGroupItem>
-
-  <CodeGroupItem title="NPM">
-
-```bash
-npm install -D vuepress@next
-```
-
-  </CodeGroupItem>
-</CodeGroup>
-
-- **Step 4**: Add some [scripts](https://classic.yarnpkg.com/en/docs/package-json#toc-scripts) to `package.json`
-
-```json
-{
-  "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
-  }
-}
-```
-
-- **Step 5**: Add the default temp and cache directory to `.gitignore` file
-
-```bash
-echo 'node_modules' >> .gitignore
-echo '.temp' >> .gitignore
-echo '.cache' >> .gitignore
-```
-
-- **Step 6**: Create your first document
-
-```bash
-mkdir docs
-echo '# Hello VuePress' > docs/README.md
-```
-
-- **Step 7**: Serve the documentation site in the local server
-
-<CodeGroup>
-  <CodeGroupItem title="PNPM" active>
-
-```bash
-pnpm docs:dev
-```
-
-  </CodeGroupItem>
-
-  <CodeGroupItem title="YARN">
-
-```bash
-yarn docs:dev
-```
-
-  </CodeGroupItem>
-
-  <CodeGroupItem title="NPM">
-
-```bash
-npm run docs:dev
-```
-
-  </CodeGroupItem>
-</CodeGroup>
-
-VuePress will start a hot-reloading development server at [http://localhost:8080](http://localhost:8080). When you modify your markdown files, the content in the browser will be auto updated.
-
-By now, you should have a basic but functional VuePress documentation site. Next, learn about the basics of [configuration](./configuration.md) in VuePress.
+بنابراین، امضای کیف پول مهمترین عنصری است که برای تأیید هویت و اعتبار تراکنش‌های بلاکچین استفاده می‌شود. با استفاده از این امضا، می‌توان به‌طور قطعی اثبات کرد که یک تراکنش توسط کیف پول مورد نظر صورت گرفته است و هیچ تغییری در آن ایجاد نشده است.
 
 </div>

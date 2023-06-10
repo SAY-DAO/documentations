@@ -11,7 +11,7 @@ export default defineUserConfig({
 
       head: [['link', { rel: 'icon', href: '/images/favicon.ico' }]],
       lang: 'fa-IR',
-      title: 'مستندات',
+      title: 'SAY DAO',
       description: 'اسناد توسعه‌‌',
     },
     '/en/': {
