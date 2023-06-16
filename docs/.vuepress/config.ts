@@ -21,8 +21,8 @@ export default defineUserConfig({
     "/en/": {
       head: [["link", { rel: "icon", href: "/images/favicon.ico" }]],
       lang: "en-US",
-      title: "VuePress",
-      description: "Vue-powered Static Site Generator",
+      title: "SAY DAO",
+      description: "Documentations for App and Panel",
     },
   },
   theme: defaultTheme({
@@ -37,7 +37,7 @@ export default defineUserConfig({
     },
     locales: {
       "/": {
-        selectLanguageName: "English",
+        selectLanguageName: "Farsi",
         logo: "/images/logo2.png",
         navbar: [
           {
