@@ -1,9 +1,8 @@
 import { defaultTheme } from "vuepress";
 import { docsearchPlugin } from "@vuepress/plugin-docsearch";
 import { path } from "@vuepress/utils";
-
-import pkg from '@vuepress/plugin-register-components';
-const { registerComponentsPlugin } = pkg;
+import { registerComponentsPlugin } from "@vuepress/plugin-register-components";
+import { palettePlugin } from "@vuepress/plugin-palette";
 
 const isProd = process.env.NODE_ENV === "production";
 
@@ -99,7 +98,7 @@ export default {
     //     facetFilters: ["tags:v2"],
     //   },
     // }),
-
+    palettePlugin({ preset: 'sass' }),
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, "./theme/components"),
     }),
