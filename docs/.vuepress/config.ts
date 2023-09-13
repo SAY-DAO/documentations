@@ -22,7 +22,7 @@ export default {
     // },export default {
   },
   theme: defaultTheme({
-    colorMode: "dark",
+    colorMode: "light",
     logo: "/images/logo.png",
     repo: "SAY-DAO/road-map-docs",
     docsDir: "docs",
