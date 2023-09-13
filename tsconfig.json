@@ -11,8 +11,7 @@
   },
   "include": [
     "**/.vuepress/**/*",
-    "**/styles/**/*",
-    "ecosystem/**/*",
+    "**/docs/**/*",
     "packages/**/*",
     "vitest.config.ts"
   ],

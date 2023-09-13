@@ -3,10 +3,18 @@ import { docsearchPlugin } from "@vuepress/plugin-docsearch";
 import { path } from "@vuepress/utils";
 import { registerComponentsPlugin } from "@vuepress/plugin-register-components";
 import { palettePlugin } from "@vuepress/plugin-palette";
+import { resolve } from "path";
 
 const isProd = process.env.NODE_ENV === "production";
 
 export default {
+  configureWebpack: {
+    resolve: {
+      alias: {
+        "@fonts": resolve("fonts"),
+      },
+    },
+  },
   locales: {
     // As a special case, the default locale can use '/' as its path.
     "/": {
