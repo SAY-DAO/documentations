@@ -1,5 +1,5 @@
 {
-  "name": "road-map-docs",
+  "name": "documentation",
   "packageManager": "yarn@3.6.3",
   "devDependencies": {
     "@types/node": "^20.2.5",
