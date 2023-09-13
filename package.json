@@ -7,7 +7,7 @@
     "@vuepress/bundler-webpack": "^2.0.0-beta.45",
     "@vuepress/cli": "^2.0.0-beta.45",
     "@vuepress/client": "next",
-    "@vuepress/plugin-docsearch": "next",
+    "@vuepress/plugin-docsearch": "^2.0.0-alpha.1",
     "@vuepress/plugin-google-analytics": "^1.9.9",
     "@vuepress/plugin-register-components": "next",
     "@vuepress/plugin-shiki": "^2.0.0-beta.5",
