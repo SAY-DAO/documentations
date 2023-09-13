@@ -25,7 +25,7 @@ export default {
   theme: defaultTheme({
     colorMode: "light",
     logo: "/images/logo.png",
-    repo: "SAY-DAO/road-map-docs",
+    repo: "SAY-DAO/documentations",
     docsDir: "docs",
     themePlugins: {
       // only enable git plugin in production mode
@@ -37,6 +37,9 @@ export default {
         selectLanguageName: "Farsi",
         logo: "/images/logo.png",
         logoDark: "/images/logo2.png",
+        editLinkText: "ویرایش این صفحه",
+        lastUpdated: true,
+        lastUpdatedText: "آخرین به‌روزرسانی",
         // navbar: [
         //   {
         //     text: "API",
@@ -87,7 +90,7 @@ export default {
     },
   }),
   editLinks: false,
-  docsRepo: "SAY-DAO/road-map-docs",
+  docsRepo: "SAY-DAO/documentations",
   // use plugins
   plugins: [
     // docsearchPlugin({
@@ -98,7 +101,7 @@ export default {
     //     facetFilters: ["tags:v2"],
     //   },
     // }),
-    palettePlugin({ preset: 'sass' }),
+    palettePlugin({ preset: "sass" }),
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, "./theme/components"),
     }),

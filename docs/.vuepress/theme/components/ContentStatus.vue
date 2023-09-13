@@ -26,8 +26,6 @@
           </li>
         </ul>
       </div>
-      <EditOrIssue />
-
     </div>
 
 
