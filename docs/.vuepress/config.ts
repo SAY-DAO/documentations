@@ -1,7 +1,9 @@
 import { defaultTheme } from "vuepress";
 import { docsearchPlugin } from "@vuepress/plugin-docsearch";
-import { registerComponentsPlugin } from "@vuepress/plugin-register-components";
 import { path } from "@vuepress/utils";
+
+import pkg from '@vuepress/plugin-register-components';
+const { registerComponentsPlugin } = pkg;
 
 const isProd = process.env.NODE_ENV === "production";
 

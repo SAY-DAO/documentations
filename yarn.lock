@@ -820,7 +820,7 @@
     "@vue/compiler-core" "3.3.4"
     "@vue/shared" "3.3.4"
 
-"@vue/compiler-sfc@3.3.4":
+"@vue/compiler-sfc@3.3.4", "@vue/compiler-sfc@^3.3.4":
   version "3.3.4"
   resolved "https://registry.yarnpkg.com/@vue/compiler-sfc/-/compiler-sfc-3.3.4.tgz#b19d942c71938893535b46226d602720593001df"
   integrity sha512-6y/d8uw+5TkCuzBkgLS0v3lSM3hJDntFEiUORM11pQ/hKvkhSKZrXW6i69UyXlJQisJxuUEJKAWEqWbWsLeNKQ==
@@ -1001,7 +1001,7 @@
     vue "^3.0.0"
     vue-router "4.0.0-rc.5"
 
-"@vuepress/client@2.0.0-beta.45":
+"@vuepress/client@2.0.0-beta.45", "@vuepress/client@^2.0.0-beta.45":
   version "2.0.0-beta.45"
   resolved "https://registry.yarnpkg.com/@vuepress/client/-/client-2.0.0-beta.45.tgz#49a1b818fb730dc07ebb0dacf1e2def608107961"
   integrity sha512-4oK77LI5FpHvF6bZxREfLdWfOgAZroDkyy46moRopasg72UeXjfvOTb/6tIKaNQP6e/Kn2ubRxVeLe7DR5d9Ng==
@@ -1020,7 +1020,7 @@
     vue "^3.0.7"
     vue-router "^4.0.5"
 
-"@vuepress/client@2.0.0-beta.67", "@vuepress/client@next":
+"@vuepress/client@2.0.0-beta.67":
   version "2.0.0-beta.67"
   resolved "https://registry.yarnpkg.com/@vuepress/client/-/client-2.0.0-beta.67.tgz#7cb444eaa12032a7d07b8d59a515d291933518dc"
   integrity sha512-xfXZXmZmMbCvQxUhNltuAZzpoiwM0x9ke+DdPPDBF0oGMNDlmtOlsD7NcH322vQE3ehYy5mXJttXuEmfoNOG6A==
@@ -1274,14 +1274,13 @@
     "@vuepress/core" "2.0.0-beta.67"
     prismjs "^1.29.0"
 
-"@vuepress/plugin-register-components@next":
-  version "2.0.0-beta.67"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-register-components/-/plugin-register-components-2.0.0-beta.67.tgz#7014a8cac2ee0a0085c2ffd27f4f518c52c5162f"
-  integrity sha512-dbdCnlY/MAzyrycwIONDOtZbHvv2r5yenXPO18IOy5bAFnlaEOL2RfPjD6MqRlYS3aZD7om21RV3RxGHJabHew==
+"@vuepress/plugin-register-components@^1.9.10":
+  version "1.9.10"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-register-components/-/plugin-register-components-1.9.10.tgz#3f8fd91acefec32b115d4dce89b14863cbe29212"
+  integrity sha512-sgdJ5OydTPZAoTkselpvVP3Xsd6bfZ0FpaxOTinal0gJ99h49lvLu9bvzMx13rdGRFO/kRXn0qQQpwKTAfTPqA==
   dependencies:
-    "@vuepress/core" "2.0.0-beta.67"
-    "@vuepress/utils" "2.0.0-beta.67"
-    chokidar "^3.5.3"
+    "@vuepress/shared-utils" "1.9.10"
+    "@vuepress/types" "1.9.10"
 
 "@vuepress/plugin-search@1.9.10":
   version "1.9.10"
@@ -1310,7 +1309,7 @@
     "@vuepress/utils" "2.0.0-beta.67"
     vue "^3.3.4"
 
-"@vuepress/shared-utils@^1.2.0":
+"@vuepress/shared-utils@1.9.10", "@vuepress/shared-utils@^1.2.0":
   version "1.9.10"
   resolved "https://registry.yarnpkg.com/@vuepress/shared-utils/-/shared-utils-1.9.10.tgz#45aae7fcf07a2067fb340c71e5bd96837b48dfee"
   integrity sha512-M9A3DocPih+V8dKK2Zg9FJQ/f3JZrYsdaM/vQ9F48l8bPlzxw5NvqXIYMK4kKcGEyerQNTWCudoCpLL5uiU0hg==
