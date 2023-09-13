@@ -5988,7 +5988,7 @@ vuepress-vite@2.0.0-beta.67:
     "@vuepress/theme-default" "2.0.0-beta.67"
     vue "^3.3.4"
 
-vuepress@next:
+vuepress@^2.0.0-beta.67:
   version "2.0.0-beta.67"
   resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-2.0.0-beta.67.tgz#eacf63d6d14f2364bd8043f13eba67234319cd53"
   integrity sha512-931pKDOph20RKMLZAH5YYlMz+nfx9jcOQio1Gxk0pB7DwuSxAVFxPv2dbIUP4E/4uWOkLppRhLYcrOoxEbVYzA==

@@ -1,5 +1,6 @@
 {
   "name": "road-map-docs",
+  "packageManager": "yarn@3.5.1",
   "devDependencies": {
     "@types/node": "^20.2.5",
     "@vuepress/bundler-vite": "^2.0.0-beta.45",
@@ -13,7 +14,7 @@
     "@vuepress/theme-default": "^1.9.9",
     "sass": "^1.66.1",
     "vue": "^3.3.4",
-    "vuepress": "next"
+    "vuepress": "^2.0.0-beta.67"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
