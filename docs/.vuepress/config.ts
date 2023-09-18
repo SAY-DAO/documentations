@@ -47,21 +47,40 @@ export default {
         logoDark: "/images/logo2.png",
         editLinkText: "ویرایش این صفحه",
         lastUpdated: true,
-        lastUpdatedText: "آخرین به‌روزرسانی",
-        // navbar: [
-        //   {
-        //     text: "API",
-        //     link: "/api/",
-        //   },
-        // ],
+        lastUpdatedText: "آخرین به‌روز رسانی",
+        contributors: false,
+        navbar: [
+          {
+            text: "API",
+            link: "https://nest.saydao.org/docs",
+          },
+        ],
         sidebar: {
-          "/guide/": [
+          "/guide/ngo": [
             {
               text: "مددکاران و سمن‌ها",
               children: [
-                "/guide/basics.md",
-                "/guide/wallet.md",
-                "/guide/keywords.md",
+                "/guide/ngo/intro.md",
+                "/guide/ngo/needModule.md",
+                "/guide/ngo/blockchain.md",
+                "/guide/ngo/wallet.md",
+                "/guide/ngo/signature.md",
+                "/guide/ngo/panel.md",
+                "/guide/ngo/references.md",
+              ],
+            },
+          ],
+          "/guide/family": [
+            {
+              text: "خانواده‌های مجازی",
+              children: [
+                "/guide/family/intro.md",
+                "/guide/family/needModule.md",
+                "/guide/family/blockchain.md",
+                "/guide/family/wallet.md",
+                "/guide/family/signature.md",
+                "/guide/family/dapp.md",
+                "/guide/family/references.md",
               ],
             },
           ],

@@ -1,6 +1,6 @@
 ---
-title: کلیدواژه‌ها 🚧
-description: کلید واژه‌های مربوط به بلاکچین و اتریوم
+title: داپلیکیشن 🚧
+description: نرم‌افزار خانواده‌های مجازی
 issueUrl: https://github.com/SAY-DAO/documentations/issues/1
 related:
   "مقدمه ای بر وب 3": https://ethereum.org/fa/web3/
@@ -10,7 +10,7 @@ related:
 
  <div dir="rtl" markdown="1">
 
-# کلیدواژه‌ها
+# نرم‌افزار خانواده‌های مجازی
 
 <ContentStatus />
 

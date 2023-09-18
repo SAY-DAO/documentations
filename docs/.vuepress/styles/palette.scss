@@ -6,6 +6,11 @@ body{
 header .description {
   display: none;
 }
+
+header .site-name {
+  display: none;
+}
+
 :root {
     // brand colors
     --c-brand: #fbb563;
