@@ -1,6 +1,6 @@
 ---
-title: دپلیکیشن 🚧
-description: نرم‌افزار خانواده‌های مجازی
+title: ثبت‌نام 🚧
+description: نرم‌افزار مددکاران
 issueUrl: https://github.com/SAY-DAO/documentations/issues/1
 related:
   "مقدمه ای بر وب 3": https://ethereum.org/fa/web3/
@@ -10,7 +10,7 @@ related:
 
  <div dir="rtl" markdown="1">
 
-# نرم‌افزار خانواده‌های مجازی
+# نرم‌افزار مددکاران
 
 <ContentStatus />
 

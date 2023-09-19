@@ -66,6 +66,7 @@ export default {
                 "/guide/ngo/wallet.md",
                 "/guide/ngo/signature.md",
                 "/guide/ngo/panel.md",
+                "/guide/ngo/register.md",
                 "/guide/ngo/references.md",
               ],
             },
