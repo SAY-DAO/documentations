@@ -16,9 +16,17 @@ body {
   font-weight: 200;
 
 }
+.home .hero  {
+  margin-top: 120px;
+}
 
+.home .hero .action-button.primary {
+  background-color: transparent;
+  color: var(--c-brand);
+}
 header .description {
-  display: block;
+  margin-bottom: 50px !important;
+
 }
 
 header .site-name {
