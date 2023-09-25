@@ -20,8 +20,8 @@ export default {
     "/": {
       head: [["link", { rel: "icon", href: "/images/favicon.ico" }]],
       lang: "fa-IR",
-      title: "اسناد توسعه‌‌",
-      // description: "---",
+      title: "SAY DAO",
+      description: "اسناد توسعه‌",
     },
     // "/en/": {
     //   head: [["link", { rel: "icon", href: "/images/favicon.ico" }]],
@@ -50,6 +50,10 @@ export default {
         lastUpdatedText: "آخرین به‌روز رسانی",
         contributors: false,
         navbar: [
+          {
+            text: "خانه",
+            link: "/",
+          },
           {
             text: "API",
             link: "https://nest.saydao.org/docs",

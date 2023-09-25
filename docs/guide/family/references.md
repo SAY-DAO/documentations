@@ -22,7 +22,9 @@
 
 #### 10- [Kickstarter Fraud? State Sues Failed Project's Creators](https://www.nbcnews.com/tech/internet/kickstarter-fraud-state-sues-failed-projects-creators-n95951)
 
-#### 11- [Identifiable victim effect](https://en.wikipedia.org/wiki/Identifiable_victim_effect)
+#### 11- [GoFundMe Blocks $10 Million in Donations to Canadian Trucker Convoy](https://www.nationalreview.com/news/gofundme-blocks-10-million-in-donations-to-canadian-trucker-convoy/)
+
+#### 12- [Identifiable victim effect](https://en.wikipedia.org/wiki/Identifiable_victim_effect)
 
 <br />
 <br />

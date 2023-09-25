@@ -2,8 +2,8 @@
 {
   home: true,
   actionText: Get Started,
-  heroImage: /images/logo.png,
-  heroImageDark: /images/logo2.png,
+  # heroImage: /images/logo.png,
+  # heroImageDark: /images/logo2.png,
   heroHeight: 200,
   actions:
     [
