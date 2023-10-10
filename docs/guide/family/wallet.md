@@ -63,47 +63,4 @@
 
 به یاد داشته باشید که تراکنش ها برگشت پذیر و کیف پول‌ها به سادگی قابل بازیابی نیستند، پس احتیاط کنید و همیشه مراقب باشید.
 
-<div style="display: flex; justify-content:center; flex-wrap: nowrap; ">
-    <div  style="margin: 20px;  text-align: center;">
-        <img src="/images/signature.svg" alt="drawing" width="60"/>
-        <p style=" text-align: center;  line-height: 15px;  font-size: 14px; margin: 0">
-            امضای مددکار
-        </p>
-    </div>
-    <div  style="margin: 20px;  text-align: center;">
-        <img src="/images/signature-pink.svg" alt="drawing" width="60"/>
-        <p style=" text-align: center;  line-height: 15px;  font-size: 14px; margin: 0">
-            امضای میانجی
-        </p>
-    </div>
-    <div  style="margin: 20px;  text-align: center;">
-        <img src="/images/signature-blue.svg" alt="drawing" width="60"/>
-        <p style=" text-align: center;  line-height: 15px;  font-size: 14px; margin: 0">
-            امضای شاهد
-        </p>
-    </div>
-    <div  style="margin: 20px;  text-align: center;">
-        <img src="/images/signature-gold.svg" alt="drawing" width="60"/>
-        <p style=" text-align: center;  line-height: 15px;  font-size: 14px; margin: 0">
-            امضای خانواده مجازی
-        </p>
-    </div>
-</div>
-
-## جزئیات هر امضا 🚧
-
-<!-- ### مددکار
-### شاهد
-### میانجی
-### خانواده مجازی  -->
-
-...
-
-## خلق توکن از یک نیاز 🚧
-
-...
-::: warning
-این صفحه در حال توسعه و بهبود است.
-:::
-
 </div>

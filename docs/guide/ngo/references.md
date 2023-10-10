@@ -12,19 +12,21 @@
 
 #### 5- [Live Poverty Data](https://worldpoverty.io/headline)
 
-#### 6- [World Giving Index 2022](https://www.cafonline.org/docs/default-source/about-us-research/cafworldgivingindex2021_report_web2_100621.pdf)
+#### 6- [Extreme poverty](https://en.wikipedia.org/wiki/Extreme_poverty)
 
-#### 7- [One in Three Worldwide Lack Confidence in NGOs](https://news.gallup.com/opinion/gallup/258230/one-three-worldwide-lack-confidence-ngos.aspx)
+#### 7- [World Giving Index 2022](https://www.cafonline.org/docs/default-source/about-us-research/cafworldgivingindex2021_report_web2_100621.pdf)
 
-#### 8- [Crowdfunding](https://en.wikipedia.org/wiki/Crowdfunding)
+#### 8- [One in Three Worldwide Lack Confidence in NGOs](https://news.gallup.com/opinion/gallup/258230/one-three-worldwide-lack-confidence-ngos.aspx)
 
-#### 9- [New Jersey Man Gets 5 Years in Prison in GoFundMe Fraud Case](https://www.nytimes.com/2022/08/07/nyregion/gofundme-scam-mark-damico-sentenced.html)
+#### 9- [Crowdfunding](https://en.wikipedia.org/wiki/Crowdfunding)
 
-#### 10- [Kickstarter Fraud? State Sues Failed Project's Creators](https://www.nbcnews.com/tech/internet/kickstarter-fraud-state-sues-failed-projects-creators-n95951)
+#### 10- [New Jersey Man Gets 5 Years in Prison in GoFundMe Fraud Case](https://www.nytimes.com/2022/08/07/nyregion/gofundme-scam-mark-damico-sentenced.html)
 
-#### 11- [GoFundMe Blocks $10 Million in Donations to Canadian Trucker Convoy](https://www.nationalreview.com/news/gofundme-blocks-10-million-in-donations-to-canadian-trucker-convoy/)
+#### 11- [Kickstarter Fraud? State Sues Failed Project's Creators](https://www.nbcnews.com/tech/internet/kickstarter-fraud-state-sues-failed-projects-creators-n95951)
 
-#### 12- [Identifiable victim effect](https://en.wikipedia.org/wiki/Identifiable_victim_effect)
+#### 12- [GoFundMe Blocks $10 Million in Donations to Canadian Trucker Convoy](https://www.nationalreview.com/news/gofundme-blocks-10-million-in-donations-to-canadian-trucker-convoy/)
+
+#### 13- [Identifiable victim effect](https://en.wikipedia.org/wiki/Identifiable_victim_effect)
 
 <br />
 <br />
