@@ -66,6 +66,7 @@ export default {
               children: [
                 "/guide/ngo/intro.md",
                 "/guide/ngo/needModule.md",
+                "/guide/ngo/acceleratorModule.md",
                 "/guide/ngo/panel.md",
                 "/guide/ngo/register.md",
                 "/guide/ngo/blockchain.md",
@@ -80,6 +81,7 @@ export default {
               children: [
                 "/guide/family/intro.md",
                 "/guide/family/needModule.md",
+                "/guide/family/acceleratorModule.md",
                 "/guide/family/dapp.md",
                 "/guide/family/blockchain.md",
                 "/guide/family/wallet.md",
