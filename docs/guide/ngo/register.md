@@ -4,7 +4,7 @@ description: نرم‌افزار مددکاران
 issueUrl: https://github.com/SAY-DAO/documentations/issues/1
 ---
 
- <div dir="rtl" style="text-align: right;" markdown="1">
+ <div style="direction: rtl; text-align: justify;">
 
 # ثبت‌نام سمن
 
